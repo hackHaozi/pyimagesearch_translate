@@ -1,2 +1,5 @@
-# pyimagesearch_translate
-翻译一本长达81页的CV成长指南，来自: https://www.pyimagesearch.com/start-here/
+本文翻译自: https://www.pyimagesearch.com/start-here/
+
+这是有一本长达81页的CV成长指南，能给萌新无微不至的关怀：
+
+从装`Python`、装`OpenCV`、入门深度学习，到人脸识别、目标检测、语义分割等等各种应用，都有进阶路线，里面包含了教程、案例、注意事项。甚至怎样把算法部署到树莓派之类的硬件上，也能找到经验。
